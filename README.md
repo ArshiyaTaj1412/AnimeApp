@@ -1,4 +1,4 @@
-# 📱 Random Content Viewer App (React Native)
+# 📱 Anime App (React Native)
 
 A dynamic mobile application built with **React Native (CLI)** that fetches and displays random content using external APIs. Designed with clean architecture, strong error handling, and a responsive UI.
 
